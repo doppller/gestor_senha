@@ -3,4 +3,5 @@ Esse projeto é gestor de senhas simples onde primeiramente é pretendido gardar
 Nesse projeto irei utilizar python e html como linguagens principais mas posso alterar no futuro.
 
 *Atualização: Python e html ainda estão sendo sendo utilizado, foi utilizado para modularizar o design das paginas json e css.
+
 **Projeto desatualizado
